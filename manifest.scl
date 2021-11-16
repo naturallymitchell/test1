@@ -1,0 +1,12 @@
+imports = {
+  base-theme = "themes/base-theme",
+  pitch-deck = "themes/pitch-deck",
+}
+
+base-theme = {
+  url = "https://github.com/foundpatterns/base-theme",
+}
+
+pitch-deck = {
+  url = "https://github.com/lighttouch-themes/pitch-deck",
+}
